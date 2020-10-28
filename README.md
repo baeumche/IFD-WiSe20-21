@@ -7,6 +7,7 @@
 <h2>Task 1:</h2> 
 <a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_01/Aufgabe_01.pdf">Wallet Project</a>
 
-<h2>Task 2_1:</h2> 
+<h2>Task 2:</h2> 
 <a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_02/2-1">Prototyping Tool</a>
+<a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_02/Aufgabe_2.2.pdf">Konzeptentwurf</a>
 
