@@ -11,3 +11,6 @@
 <a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_02/2-1.md">Prototyping Tool</a> <br> 
 <a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_02/Aufgabe_2.2.pdf">Konzeptentwurf</a>
 
+<h2>Task 3:</h2> 
+<a href="">HighFid Layout Intranet</a>
+
