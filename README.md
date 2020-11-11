@@ -15,5 +15,5 @@
 <a href="https://xd.adobe.com/view/fa6c3db7-7d1b-4e36-8671-0dbec69009af-af3f/">HighFid Layout Intranet</a>
 
 <h2>Task 4:</h2> 
-<a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_04/VUI_HFU_Student.png">HighFid Layout Intranet</a>
+<a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_04/VUI_HFU_Student.png">Design Grundsätze und Heuristiken</a>
 
