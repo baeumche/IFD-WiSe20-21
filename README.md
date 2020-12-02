@@ -18,5 +18,5 @@
 <a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_04/VUI_HFU_Student.png">Design Grundsätze und Heuristiken</a>
 
 <h2>Task 6/7:</h2> 
-<a href="https://xd.adobe.com/view/d16a5278-0c2b-451d-8bd7-3ff907072ec1-8439/">VoiceUserInterface</a>
+<a href="https://xd.adobe.com/view/d16a5278-0c2b-451d-8bd7-3ff907072ec1-8439/">VoiceUserInterface</a> <br>
 <a href="">VoiceUserInterface Screencast</a>
