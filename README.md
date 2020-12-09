@@ -22,4 +22,4 @@
 <a href="https://drive.google.com/file/d/18j_sTf48ajyyVL95LjwryIeBtfbQDdH4/view?usp=sharing">Voice User Interface Screencast</a>
 
 <h2>Task 8:</h2> 
-<a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_08/Dokumentation_VR_Brille_IFD.pdf">Voice User Interface</a>
+<a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_08/Dokumentation_VR_Brille_IFD.pdf">VR Brille</a>
