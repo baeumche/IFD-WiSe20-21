@@ -24,5 +24,7 @@
 <h2>Task 8:</h2> 
 <a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_08/Dokumentation_VR_Brille_IFD.pdf">VR Brille</a>
 
+<h2>Task 9:</h2> 
+<a href="">Konzept VR Vorlesung</a>
+<a href="https://drive.google.com/file/d/10gDWdMgKS4YNHZJGUepogZqvUnZTBMkL/view?usp=sharing ">Prototyp VR Vorlesung</a>
 
-https://drive.google.com/file/d/10gDWdMgKS4YNHZJGUepogZqvUnZTBMkL/view?usp=sharing 
