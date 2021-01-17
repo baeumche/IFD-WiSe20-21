@@ -29,6 +29,5 @@
 <a href="https://drive.google.com/file/d/10gDWdMgKS4YNHZJGUepogZqvUnZTBMkL/view?usp=sharing ">Prototyp VR Vorlesung</a>
 
 //<h2>Task 10:</h2> 
-//<a href="https://github.com/baeumche/IFD-WiSe20-21/blob/main/Aufgabe_09/Dokumentation_VR_Brille_IFD_Konzept.pdf">Konzept VR Vorlesung</a> <br>
-//<a href="https://drive.google.com/file/d/10gDWdMgKS4YNHZJGUepogZqvUnZTBMkL/view?usp=sharing ">Prototyp VR Vorlesung</a>
-// https://app.draftxr.com/vr/P8YOvv
+//<a href="https://app.draftxr.com/vr/P8YOvv">Natural Language Interfaces & AI</a> <br>
+
