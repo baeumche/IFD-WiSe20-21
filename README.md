@@ -29,5 +29,5 @@
 <a href="https://drive.google.com/file/d/10gDWdMgKS4YNHZJGUepogZqvUnZTBMkL/view?usp=sharing ">Prototyp VR Vorlesung</a>
 
 <h2>Task 10:</h2> 
-// <a href="https://app.draftxr.com/vr/P8YOvv">Natural Language Interfaces & AI</a> <br>
+<a href="https://app.draftxr.com/vr/P8YOvv">Natural Language Interfaces & AI</a> <br>
 
